@@ -57,7 +57,7 @@ CGPA: 9.1
 ---
 
 ### 📄 [Download My Resume](https://drive.google.com/file/d/1XmxeeJI3xZ3d-O7uWGIpd_gdULvDsB9n/view?usp=drive_link)
-### 📄 [Download My CV](https://drive.google.com/file/d/1lAFx_LKp5q_81GsZazazkkoYIBMILksC/view?usp=drive_link)
+### 📄 [Download My CV](https://drive.google.com/file/d/1XmxeeJI3xZ3d-O7uWGIpd_gdULvDsB9n/view?usp=drive_link)
 
 ### 🔗 Connect with Me
 - 📬 Email: jkdhanush11@gmail.com  
