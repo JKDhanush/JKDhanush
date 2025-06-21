@@ -34,12 +34,13 @@
 - **Languages:** Python (OOP, DSA), C, JavaScript
 - **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS
 - **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
-- **Backend & Deployment:** FastAPI, Streamlit, GitHub, Streamlit Cloud
+- **Backend & Deployment:** FastAPI, Streamlit, GitHub
 - **Data:** Pandas, NumPy, SQL, MongoDB, Supabase
-- **LLM & NLP:** OpenAI, Hugging Face, LangChain, spaCy, NLTK
+- **LLM & NLP:** OpenAI, Hugging Face, LangChain, spaCy, NLTK, Prompt Engineering
+- **Vector Databases:** FAISS,
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing
-
+- 
 ---
 
 ### 🎓 Education
