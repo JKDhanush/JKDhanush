@@ -31,11 +31,12 @@
 ---
 
 ### 🧠 Skills & Tech Stack
-- **Languages:** Python (OOP, DSA), C
+- **Languages:** Python (OOP, DSA), C, JavaScript
 - **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS
+- **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
+- **Backend & Deployment:** FastAPI, Streamlit, GitHub, Streamlit Cloud
 - **Data:** Pandas, NumPy, SQL, MongoDB, Supabase
 - **LLM & NLP:** OpenAI, Hugging Face, LangChain, spaCy, NLTK
-- **Deployment:** FastAPI, Streamlit, GitHub, Streamlit Cloud
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing
 
