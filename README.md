@@ -59,7 +59,7 @@ CGPA: 9.1
 
 ### 🔗 Connect with Me
 - 📬 Email: jkdhanush11@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/dhanushjk)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanushjk)
 - 💻 [GitHub](https://github.com/JKDhanush)
 
 ---
