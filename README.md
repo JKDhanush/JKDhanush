@@ -40,7 +40,7 @@
 - **Vector Databases:** FAISS,
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing
-- 
+  
 ---
 
 ### 🎓 Education
