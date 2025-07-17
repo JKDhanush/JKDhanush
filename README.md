@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Jeevarathinam Kamaraj</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Backend Developer | TCS R&D Intern | IIITian</h3>
+<h3 align="center"> AI/ML Engineer | Backend Developer | TCS R&D Intern | IIITian</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanushjk&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushjk" />
