@@ -9,45 +9,45 @@
 
 ### 🔭 Current Internships
 - 🧠 **Machine Learning Intern at TCS Research & Innovation**
-  - Built a Physics-Informed Neural Network (PINN) that improved simulation speed 250×
-  - Handled 1M+ time series points with advanced NumPy/Pandas automation
-  - Reduced inference time from 24 hrs to under 5 minutes!
+  - Built a **Physics-Informed Neural Network (PINN)** improving simulation speed **250×**
+  - Automated **1M+ time series** handling with advanced NumPy/Pandas
+  - Reduced inference time from **24 hrs to under 5 minutes**
 
 - ⚙️ **ML Intern at Grinder 2.0**
-  - Developed ML for batter pouring automation (time-to-pour prediction)
-  - 33% improvement in preparation time
+  - Developed ML for **batter pouring automation** (time-to-pour prediction)
+  - Achieved **33% improvement** in preparation time
 
 ---
 
 ### 💼 Past Projects
 | Project | Description |
 |--------|-------------|
-| **🧾 Medical Data Extraction** | OCR + FastAPI-based scanned medical document parser |
-| **📈 Equity Research LLM Tool** | Financial chatbot using OpenAI, LangChain, FAISS |
-| **💬 LinkedIn Post Generator** | Multilingual post builder with Llama 3.2 & Streamlit |
-| **🏘️ Real Estate Price Predictor** | Regression model with 0.82 accuracy |
-| **📚 CGPA Prediction Assistant** | ML-based study strategy recommender for students |
+| **🧾 Medical Data Extraction** | OCR + **FastAPI**-based scanned medical document parser |
+| **📈 Equity Research LLM Tool** | Financial chatbot using **OpenAI, LangChain, FAISS**, and **RAG** |
+| **💬 LinkedIn Post Generator** | Multilingual post builder with **Llama 3.2**, **LangChain**, **Streamlit** |
+| **🏘️ Real Estate Price Predictor** | Regression model with **0.82 accuracy** |
+| **📚 CGPA Prediction Assistant** | ML-based **study strategy recommender** for students |
+| **📊 Stock Trading Agent Simulation** | **Agentic AI** using **LangGraph + LangSmith**; simulates **autonomous stock trading** with **stateful memory, tool-augmented reasoning, RAG integration, and human-in-the-loop approval**. Demonstrates **graph-based orchestration** and **LangSmith tracing** for transparent agent behavior. |
 
 ---
 
 ### 🧠 Skills & Tech Stack
 - **Languages:** Python (OOP, DSA), C, JavaScript
-- **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS
+- **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS, **RAG**
+- **LLM & Agentic AI:** **LangChain, LangGraph, LangSmith**, Prompt Engineering, Hugging Face, OpenAI
+- **Backend & Deployment:** **FastAPI**, Streamlit, GitHub, Supabase
 - **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
-- **Backend & Deployment:** FastAPI, Streamlit, GitHub
-- **Data:** Pandas, NumPy, SQL, MongoDB, Supabase
-- **LLM & NLP:** OpenAI, Hugging Face, LangChain, spaCy, NLTK, Prompt Engineering
-- **Vector Databases:** FAISS,
+- **Data & Storage:** Pandas, NumPy, SQL, MongoDB, Vector Databases (**FAISS**)
 - **Visualization:** Matplotlib, Seaborn, Power BI
-- **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing
-  
+- **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing, LangSmith Debugging/Tracing
+
 ---
 
 ### 🎓 Education
 **B.Tech in Smart Manufacturing – IIIT D&M** (2022 - 2026)  
-CGPA: 9.1  
-- 🥇 **Gold Medalist (2024)** — Ranked 1st in Department
-- 🧠 JEE Main 2022 – 96 Percentile (Top 4%)
+CGPA: **9.1**  
+- 🥇 **Gold Medalist (2024)** — Ranked **1st in Department**
+- 🧠 **JEE Main 2022** – 96 Percentile (Top 4%)
 
 ---
 
@@ -68,4 +68,3 @@ CGPA: 9.1
 ---
 
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
-
