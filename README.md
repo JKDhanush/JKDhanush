@@ -28,7 +28,6 @@
 | **🏘️ Real Estate Price Predictor** | Regression model with **0.82 accuracy** |
 | **📚 CGPA Prediction Assistant** | ML-based **study strategy recommender** for students |
 | **📊 Stock Trading Agent Simulation** | **Agentic AI** using **LangGraph + LangSmith**; simulates **autonomous stock trading** with **stateful memory, tool-augmented reasoning, RAG integration, and human-in-the-loop approval**. Demonstrates **graph-based orchestration** and **LangSmith tracing** for transparent agent behavior. |
-| **📦 IntelliSupply: Advanced Supply Chain & Pricing Optimization System** | Data-driven platform for optimizing supply chain operations with **14+ predictive models**. Handles *demand forecasting*, **dynamic pricing**, **inventory risk analysis**, and *supplier performance scoring* — all powered by a **FastAPI backend** for real-time predictions and smooth system integration.<br><br>**Features:** <br>- 📈 Demand Forecasting – Predict future product demand to avoid over/under-stocking.<br>- 💰 Dynamic Pricing – Optimize prices using competition, seasonality, and profit margins.<br>- 📦 Inventory Management – Reorder triggers, stockout prediction, and expiry risk detection.<br>- 🏭 Supplier Analytics – Evaluate suppliers based on delay, quality, and cost metrics.<br>- ⏱ Order & Delivery Delay Prediction – Anticipate bottlenecks for better planning.<br>- 🧩 Anomaly Detection – Detect irregularities in supply chain data for proactive fixes.<br>- ⚡ FastAPI Integration – REST API endpoints for seamless integration into any system.<br><br>**Tech Stack:** Python, FastAPI, scikit-learn, pandas, NumPy, Pickle, ETL Pipelines |
 
 ---
 
@@ -36,9 +35,9 @@
 - **Languages:** Python (OOP, DSA), C, JavaScript
 - **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS, **RAG**
 - **LLM & Agentic AI:** **LangChain, LangGraph, LangSmith**, Prompt Engineering, Hugging Face, OpenAI
-- **Backend & Deployment:** **FastAPI**, Streamlit, GitHub, Supabase, **ETL Pipelines**, **REST API Development**, **Model Deployment (Pickle)**
+- **Backend & Deployment:** **FastAPI**, Streamlit, GitHub, Supabase
 - **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
-- **Data & Storage:** Pandas, NumPy, SQL, MongoDB, Vector Databases (**FAISS**), **Supply Chain Analytics**
+- **Data & Storage:** Pandas, NumPy, SQL, MongoDB, Vector Databases (**FAISS**)
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **OS & Tools:** Linux, PDF2Image, PyTesseract, Multiprocessing, LangSmith Debugging/Tracing
 
