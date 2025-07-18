@@ -28,6 +28,7 @@
 | **🏘️ Real Estate Price Predictor** | Regression model with **0.82 accuracy** |
 | **📚 CGPA Prediction Assistant** | ML-based **study strategy recommender** for students |
 | **📊 Stock Trading Agent Simulation** | **Agentic AI** using **LangGraph + LangSmith**; simulates **autonomous stock trading** with **stateful memory, tool-augmented reasoning, RAG integration, and human-in-the-loop approval**. Demonstrates **graph-based orchestration** and **LangSmith tracing** for transparent agent behavior. |
+| **📦 IntelliSupply: Advanced Supply Chain & Pricing Optimization System** | Data-driven platform integrating **14+ predictive ML models** for **demand forecasting, dynamic pricing, inventory risk analysis, and supplier performance scoring**. Powered by **FastAPI**, **ETL pipelines**, and **scikit-learn** for real-time optimization and seamless system integration. |
 
 ---
 
@@ -35,6 +36,7 @@
 - **Languages:** Python (OOP, DSA), C, JavaScript
 - **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS, **RAG**
 - **LLM & Agentic AI:** **LangChain, LangGraph, LangSmith**, Prompt Engineering, Hugging Face, OpenAI
+- **Supply Chain & Analytics:** **Demand Forecasting**, **Dynamic Pricing**, **Inventory & Supplier Analytics**, **ETL Pipelines**
 - **Backend & Deployment:** **FastAPI**, Streamlit, GitHub, Supabase
 - **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
 - **Data & Storage:** Pandas, NumPy, SQL, MongoDB, Vector Databases (**FAISS**)
