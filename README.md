@@ -36,7 +36,6 @@
 - **Languages:** Python (OOP, DSA), C, JavaScript
 - **ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV, FAISS, **RAG**
 - **LLM & Agentic AI:** **LangChain, LangGraph, LangSmith**, Prompt Engineering, Hugging Face, OpenAI
-- **Supply Chain & Analytics:** **Demand Forecasting**, **Dynamic Pricing**, **Inventory & Supplier Analytics**, **ETL Pipelines**
 - **Backend & Deployment:** **FastAPI**, Streamlit, GitHub, Supabase
 - **Frontend:** React.js, shadcn/ui, Clerk Auth, Tailwind CSS
 - **Data & Storage:** Pandas, NumPy, SQL, MongoDB, Vector Databases (**FAISS**)
