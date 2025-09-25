@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Internships
-- 🧠 **Machine Learning Intern at TCS Research & Innovation**
+- 🧠 **Deep Learning Intern at TCS Research & Innovation**
   - Built a **Physics-Informed Neural Network (PINN)** improving simulation speed **250×**
   - Automated **1M+ time series** handling with advanced NumPy/Pandas
   - Reduced inference time from **24 hrs to under 5 minutes**
