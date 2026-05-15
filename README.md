@@ -13,21 +13,28 @@
 
 ## 🚀 Experience
 
-### 🧠 Deep Learning Intern — TCS Research & Innovation
-- Built **Physics-Informed Neural Networks (PINNs)** accelerating engineering simulation workflows by **250×**
-- Engineered high-performance pipelines processing **1M+ time-series records** using NumPy and Pandas
-- Reduced inference runtime from **24 hours to under 5 minutes** through optimized ML workflows and model acceleration
-- Worked on AI-driven engineering systems focused on scalable research and industrial applications
+### 🧠 GenAI Engineering Intern — Renault Nissan
+- Built an internal AI-powered engineering assistant to streamline access to manufacturing SOPs, maintenance logs, and operational documentation using **LLM + RAG workflows**
+- Developed backend APIs and retrieval pipelines enabling engineers to query production-related information in natural language
+- Worked on AI-assisted workflow automation for reducing manual reporting and improving engineering decision turnaround time
+- Integrated vector search and contextual document retrieval systems for faster issue diagnosis and workflow support
+- Collaborated in fast-paced product iteration cycles focused on improving internal engineering productivity and operational efficiency
+- Used AI-assisted development workflows involving **Cursor, GitHub Copilot, Claude, and OpenAI APIs** for rapid experimentation and prototyping
 
-### ⚙️ Engineering Intern — Renault Nissan
-- Worked on engineering workflow optimization and industrial system analysis in a large-scale manufacturing environment
-- Contributed to process improvement initiatives involving production data and operational efficiency
-- Collaborated across teams in execution-focused engineering workflows and fast-paced operational environments
+### 🤖 AI Systems Intern — TCS Research & Innovation
+- Built AI-driven simulation acceleration workflows using **Physics-Informed Neural Networks (PINNs)** for industrial engineering systems
+- Developed scalable backend pipelines handling **1M+ time-series records** for real-time AI inference and workflow automation
+- Designed internal GenAI-assisted research workflows for engineering data analysis, experiment tracking, and automated insight generation
+- Reduced inference runtime from **24 hours to under 5 minutes** through optimized AI pipelines and deployment-focused model engineering
+- Worked on rapid experimentation systems involving **LLM workflows, RAG pipelines, AI-assisted debugging, and scalable ML infrastructure**
+- Contributed to backend AI systems integrating **FastAPI, vector databases, and automated inference workflows**
 
-### 🤖 ML Intern — Grinder 2.0
-- Built ML models for intelligent batter-pouring automation systems
-- Developed predictive workflows for time-to-pour estimation and process optimization
-- Improved preparation efficiency by **33%** using data-driven automation approaches
+### ⚙️ AI/ML Product Intern — Grinder 2.0
+- Built AI-powered operational workflows for intelligent batter dispensing and process optimization
+- Developed predictive ML systems for real-time time-to-pour estimation and automation-driven decision support
+- Improved operational preparation efficiency by **33%** through rapid experimentation and iterative AI model optimization
+- Worked on deployment-oriented ML workflows integrating data collection, backend logic, and real-time prediction systems
+- Collaborated on AI-assisted automation tools focused on improving workflow speed and operational scalability
 
 ---
 
