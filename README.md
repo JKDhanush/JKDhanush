@@ -1,174 +1,266 @@
 <h1 align="center">Hi 👋, I'm Dhanush J K</h1>
-<h3 align="center">Generative AI Engineer | AI Engineer | LLMs • RAG • Agents • Fine-Tuning | IIITDM Kancheepuram</h3>
+
+<h3 align="center">
+Software Engineer | Backend & AI Engineer | Python • FastAPI • React • LLMs • RAG • AI Agents
+</h3>
 
 <p align="center">
-  Building production-ready AI applications using LLMs, RAG, AI Agents, Fine-Tuning, and Intelligent Automation
+  Building scalable backend systems, production-ready AI applications, and intelligent software that solve real-world engineering problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanushjk&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushjk" />
+  <a href="https://dhanushjk.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhanushjk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhanushjk">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanushjk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 Experience
+## 👨‍💻 About Me
 
-### 🤖 AI Engineer — The Professional Couriers (GMP Branch)
+I'm a **Software Engineer** focused on building scalable backend systems, full-stack applications, and production-ready AI-powered software.
 
-- Built AI applications using **LLMs, Python, and LangChain** to automate billing, shipment booking entries, and logistics workflows, reducing manual processing effort by **60%**
-- Developed **RAG-based automation solutions** using embeddings and vector databases, improving information retrieval accuracy by **45%** across operational document processing workflows
-- Integrated **OpenAI, Gemini, and Claude APIs** with OCR pipelines, automating invoice processing and shipment documentation while reducing turnaround time by **40%**
-- Engineered intelligent agent workflows leveraging prompt engineering and model evaluation techniques, improving automation reliability by **35%**
-- Tech Stack: **Python, LangChain, OpenAI API, Gemini API, Claude API, FAISS**
+My core engineering stack includes **Python, FastAPI, React.js, SQL, PostgreSQL, Docker, REST APIs, and Git**, alongside hands-on experience building intelligent applications using **LLMs, RAG, AI Agents, LangChain, LangGraph, Vector Databases, TensorFlow, and PyTorch**.
 
-### 🧠 AI Engineering Intern — Renault Nissan Technology & Business Centre India
+I've worked across **The Professional Couriers, Renault Nissan Technology & Business Centre India, Tata Consultancy Services – Research & Innovation, and Grinder 2.0**, developing software systems spanning backend engineering, AI/ML, automation, data processing, simulation, and enterprise applications.
 
-- Developed AI-driven backend systems using **Python, FastAPI, Docker, and PyTorch**, improving workflow automation efficiency by **45%**
-- Built scalable inference pipelines integrating **LLMs, predictive models, and APIs**, ensuring reliable automation workflows while supporting **38% faster operational processing**
-- Engineered production-ready automation solutions with Docker-based deployment architecture, improving production reliability and reducing service interruptions by **30%**
-- Optimized AI application performance through monitoring and orchestration enhancements, achieving **25% lower inference latency**
-- Tech Stack: **Python, FastAPI, Docker, PyTorch**
-
-### ⚡ AI Engineering Intern — Tata Consultancy Services
-
-- Built an AI assistant leveraging **LLMs** for enterprise incident workflows, reducing manual debugging and issue resolution effort by **40%**
-- Developed multi-agent orchestration pipelines using **LangGraph**, improving workflow execution accuracy by **35%**
-- Engineered scalable **FastAPI** backend services supporting AI automation workflows, reducing operational response time by **45%**
-- Implemented agent evaluation and workflow optimization strategies, improving task completion consistency by **20%**
-- Tech Stack: **Python, FastAPI, LangGraph, PostgreSQL**
+I enjoy taking ideas from **problem → architecture → implementation → testing → deployment** and building systems that create measurable real-world impact.
 
 ---
 
-## 🛠️ AI Products & Developer Projects
+# 🚀 Experience
 
-| Project | Description |
-|----------|-------------|
-| 💰 **Autonomous AI Invoice Processing & Finance Automation Agent** | Built and deployed an end-to-end AI finance automation agent using **Claude Code, MCP Servers, Zapier, and Python**. Automated invoice extraction from Gmail, vendor validation, accounting workflows, QuickBooks integration, fraud checks, approval automation, and Slack notifications while reducing manual invoice processing effort by **60%**. |
-| 🏦 **RecoverAI Copilot — RAG-Powered Financial Conversation Assistant** | Engineered a production-ready conversational AI assistant using **FastAPI, FAISS, Streamlit, Llama 3, and RAG**. Developed semantic retrieval pipelines with Sentence Transformers and FAISS to enable context-aware, compliance-focused financial conversations with reduced hallucination risks. |
-| 🤖 **Agentic AI Coder Buddy for Autonomous Web App Generation** | Built an AI coding assistant using **LangChain, LangGraph, GPT-OSS, and Groq Cloud** capable of generating complete web applications from natural language prompts through planner, architect, and coder agent workflows. |
-| 💬 **Multilingual AI Content Generation Platform** | Developed a multilingual content generation platform using **Llama 3.2, LangChain, Streamlit, and Python** with customizable tone control, prompt orchestration pipelines, and dynamic style adaptation for professional content workflows. |
-| 🚚 **Fine-Tuned Logistics Operations Assistant** | Built a logistics-domain AI assistant by creating instruction datasets, fine-tuning **Llama 3** using **QLoRA**, and integrating **RAG pipelines** to automate shipment support, document retrieval, and operational workflow assistance. |
-| 📊 **Production NLP Sentiment Analysis Pipeline Optimization** | Optimized production NLP pipelines using **Python, NLP, and Scikit-learn**, improving prediction accuracy and reducing inference latency while enhancing scalability through efficient preprocessing and robust evaluation frameworks. |
-| 🌐 **Open Source Contribution — Scalable Sentiment Analysis Framework** | Contributed production-grade improvements to an open-source sentiment analysis framework through modular architecture enhancements, robust unit testing, validation handling, error management, documentation improvements, and scalable development workflows. |
+### 💻 Software Engineer — The Professional Couriers
 
----
+**Apr 2026 – Present | Chennai, India**
 
-## ⚡ Currently Exploring
+* Developed production-grade backend applications using **Python, FastAPI, PostgreSQL, and REST APIs**, supporting shipment booking, live tracking, POD verification, and logistics operations for **5,000+ monthly users**
+* Designed scalable backend services integrating enterprise databases, authentication, third-party services, and AI-powered features, enabling real-time access to **1M+ shipment records**
+* Built responsive full-stack enterprise applications using **React.js**, improving operational efficiency by **40%**
+* Improved application reliability and maintainability through **testing, debugging, performance optimization, Docker deployments, and Git-based development workflows**
 
-- Agentic AI Systems using **LangGraph**
-- Multi-Agent Workflows
-- Advanced RAG Architectures
-- LLM Fine-Tuning
-- AI Evaluation Frameworks
-- Production AI Deployment
-- Enterprise AI Automation
-- MCP Servers & AI Agent Infrastructure
+**Tech Stack:** Python • FastAPI • PostgreSQL • React.js • REST APIs • Docker • Git • SQL
 
 ---
 
-## 🧠 Skills & Tech Stack
+### 🚗 Software Engineer Intern — Renault Nissan Technology & Business Centre India
 
-### 💻 Programming & Data Handling
+**Jan 2026 – Apr 2026 | Chennai, India**
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-learn
+* Developed high-performance software modules using **Python and TensorFlow** to process **200+ automotive crash simulation datasets**
+* Built reusable data-processing pipelines for feature engineering, statistical analysis, and model execution across **200+ simulation scenarios**
+* Developed automated validation frameworks achieving **<2% prediction error** and **0.99 R²**
+* Engineered a surrogate prediction system that reduced computational execution from approximately **8 hours to 10–20 ms** while maintaining engineering-grade accuracy
+* Work contributed toward an **ASME research publication**
+
+**Tech Stack:** Python • TensorFlow • Pandas • NumPy • Machine Learning • Data Processing
+
+---
+
+### ⚡ Software Engineer Intern — Tata Consultancy Services
+
+**Research & Innovation | May 2025 – Jul 2025 | Pune, India**
+
+* Developed production-scale software modules using **Python and TensorFlow** for neural-network-based time-dependent systems, achieving **<2.5% prediction error across 70+ evaluations**
+* Refactored and upgraded a **2,000+ line TensorFlow codebase**, resolving compatibility issues and improving maintainability
+* Automated preprocessing and feature-engineering pipelines for **1M+ multivariate time-series records**
+* Engineered optimized computational pipelines delivering approximately **250× faster inference** than traditional simulation workflows
+* Collaborated with cross-functional R&D teams on system design, debugging, testing, optimization, and technical documentation
+
+**Tech Stack:** Python • TensorFlow • Pandas • PySpark • Machine Learning • Deep Learning
+
+---
+
+### 🛠️ Software Engineer Intern — Grinder 2.0
+
+**Nov 2024 – Mar 2025 | Chennai, India**
+
+* Developed a full-stack engineering application using **React.js, Python, HTML, CSS, and REST APIs**
+* Designed scalable backend services integrating predictive analytics and business logic across **15,000+ operational data points**
+* Built reusable React components and responsive interfaces for engineering workflows and data visualization
+* Integrated machine-learning models with backend services, reducing batter preparation time by **30%**
+
+**Tech Stack:** Python • React.js • REST APIs • Scikit-learn • SQL • HTML • CSS
+
+---
+
+# 🛠️ Featured Projects
+
+| Project                                                         | Description                                                                                                                                                                                                                     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚚 **AI-Powered Logistics Operations Platform**                 | Enterprise AI application combining backend systems, intelligent automation, and logistics workflows for shipment operations and enterprise data access.                                                                        |
+| 💰 **Autonomous Invoice Processing & Finance Automation Agent** | Built an end-to-end AI finance automation agent using **Claude Code, MCP Servers, Zapier, Python, Gmail, Slack, and QuickBooks**, automating invoice extraction, validation, fraud checks, approvals, and accounting workflows. |
+| 🏦 **RecoverAI Copilot**                                        | Built a **RAG-powered financial conversation assistant** using FastAPI, FAISS, Streamlit, Llama 3, embeddings, and semantic retrieval for context-aware financial conversations.                                                |
+| 🤖 **AI Coder Buddy**                                           | Developed an autonomous web application generation system using **LangChain, LangGraph, LLMs, and multi-agent workflows** with planner, architect, and coder agents.                                                            |
+| 🚚 **Fine-Tuned Logistics Operations Assistant**                | Created domain-specific instruction datasets and fine-tuned **Llama 3 using QLoRA**, integrating RAG for shipment support, document retrieval, and logistics operations.                                                        |
+| ☁️ **CarePlus**                                                 | Built a cloud-based data engineering platform using **AWS S3, Lambda, Glue, Athena, Redshift, Parquet, and Power BI**.                                                                                                          |
+| 🥔 **Potato Disease Detection System**                          | Developed an end-to-end computer vision application using **TensorFlow, FastAPI, React, React Native, TensorFlow Lite, and GCP**, achieving approximately **99% validation accuracy**.                                          |
+| 📊 **IntelliSupply**                                            | Developed a predictive supply-chain analytics platform combining **14+ machine-learning models, ETL pipelines, and 7 datasets** for intelligent operational analytics.                                                          |
+
+---
+
+# 🌐 Open Source
+
+I actively contribute to open-source software with a focus on **AI, Python, backend engineering, testing, and production-quality development**.
+
+### 📈 Kalshi GenAI Trading Bot
+
+Contributed enhancements enabling the GenAI trading agent to recommend both **YES and NO positions**, extending its structured JSON decision output with trading-side information and reasoning.
+
+### 🧠 Sentiment Analysis Framework
+
+Contributed improvements involving:
+
+* Modular software architecture
+* Unit testing
+* Input validation
+* Error handling
+* Documentation
+* Production-oriented development practices
+
+---
+
+# 🧠 Technical Skills
+
+### 💻 Programming
+
+`Python` • `JavaScript` • `SQL` • `C`
+
+### ⚙️ Backend Engineering
+
+`FastAPI` • `REST APIs` • `API Development` • `Authentication` • `Microservices` • `Backend Architecture`
+
+### 🎨 Frontend
+
+`React.js` • `HTML` • `CSS` • `Tailwind CSS`
 
 ### 🤖 Generative AI & LLM Engineering
 
-- LLMs
-- Retrieval-Augmented Generation (RAG)
-- Fine-Tuning
-- LangChain
-- LangGraph
-- Prompt Engineering
-- AI Agents
-- NLP
-- OpenAI API
-- Gemini API
-- Claude API
-- Hugging Face
+`LLMs` • `RAG` • `AI Agents` • `LangChain` • `LangGraph` • `Prompt Engineering` • `Fine-Tuning` • `QLoRA` • `Hugging Face`
 
-### ⚙️ Backend & Infrastructure
+### 🧠 Machine Learning
 
-- FastAPI
-- Docker
-- FAISS
-- MLflow
-- API Integrations
-- Model Monitoring
-- MCP Servers
-- Zapier
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `Deep Learning` • `NLP` • `Computer Vision`
 
-### 📊 Machine Learning & AI
+### 🗄️ Data & Databases
 
-- Machine Learning
-- Deep Learning
-- PyTorch
-- Workflow Automation
+`PostgreSQL` • `MongoDB` • `FAISS` • `Vector Databases` • `Pandas` • `NumPy`
 
-### 🗄️ Data & Storage
+### ☁️ Cloud & DevOps
 
-- PostgreSQL
-- FAISS
-- Vector Databases
-- Embeddings
+`AWS` • `GCP` • `Docker` • `Git` • `GitHub` • `CI/CD` • `MLflow`
 
-### 🧰 Developer Tools
+### 🤖 AI Infrastructure & Automation
 
-- Git & GitHub
-- Linux
-- Streamlit
-- Claude Code
-- Groq Cloud
-- Hugging Face
+`MCP Servers` • `Zapier` • `Claude Code` • `Groq Cloud` • `Streamlit` • `Vector Embeddings`
+
+### 🧩 Core Computer Science
+
+`Data Structures & Algorithms` • `OOP` • `System Design` • `Operating Systems` • `Computer Networks` • `DBMS` • `Testing` • `Debugging`
 
 ---
 
-## 💡 Why I Build
+# ⚡ Currently Exploring
 
-I enjoy building AI-powered systems that automate workflows, improve operational efficiency, and transform complex business processes into intelligent, scalable solutions. My focus is on developing production-ready AI applications that combine LLMs, retrieval systems, automation, AI agents, and backend engineering to deliver measurable business impact.
-
----
-
-## 🎓 Education
-
-### B.Tech Mechanical Engineering — IIITDM Kancheepuram (2022 – 2026)
-
-- CGPA: **9.1 / 10**
-- 🏆 Academic Excellence Award Winner
-
----
-
-## 🏆 Certifications
-
-- ✅ Meta — Programming in Python
-- ✅ Meta — Introduction to Backend Development
+* 🧠 Advanced **Backend & System Design**
+* 🤖 Production **Agentic AI Systems**
+* 🔗 **LangGraph & Multi-Agent Architectures**
+* 📚 Advanced **RAG Architectures**
+* 🧬 **LLM Fine-Tuning & QLoRA**
+* 📊 **LLM Evaluation & Observability**
+* ⚙️ Production AI Deployment
+* 🌐 Distributed Backend Systems
+* 🔌 **MCP Servers & Agent Infrastructure**
+* ☁️ Cloud-Native AI Applications
 
 ---
 
-## 📈 GitHub Stats
+# 💡 Engineering Philosophy
+
+I enjoy building systems that sit at the intersection of **software engineering and artificial intelligence**.
+
+Rather than treating AI as an isolated model, I focus on the complete engineering system around it:
+
+**Data → Backend → Models → APIs → Retrieval → Agents → Evaluation → Deployment → Monitoring**
+
+My goal is to build reliable software that combines strong backend engineering with intelligent AI capabilities to automate workflows, augment decision-making, and solve meaningful real-world problems.
+
+---
+
+# 🎓 Education
+
+### Indian Institute of Information Technology Design & Manufacturing Kancheepuram
+
+**Bachelor of Technology (B.Tech) — Mechanical Engineering**
+
+📅 2022 – 2026
+
+🎓 **CGPA: 9.1 / 10**
+
+My engineering background has allowed me to work across the intersection of **software, AI, machine learning, simulation, optimization, and real-world engineering systems**.
+
+---
+
+# 🏆 Certifications
+
+* 🐍 **Meta — Programming in Python**
+* 🌐 **Meta — Introduction to Backend Development**
+* 📊 **Codebasics — Python: Beginner to Advanced for Data Professionals**
+* 📈 **Codebasics — Power BI Data Analytics**
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushjk&show_icons=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanushjk&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushjk&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushjk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushjk&layout=compact&hide_border=true" />
 </p>
 
+---
 
+# 🤝 Connect With Me
 
-## 🔗 Connect With Me
+<p align="center">
 
-- 📬 Email: jkdhanush11@gmail.com
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-- 💻 GitHub: **https://github.com/dhanushjk**
+<a href="https://www.linkedin.com/in/dhanushjk/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhanush_J_K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/dhanushjk">
+  <img src="https://img.shields.io/badge/GitHub-dhanushjk-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://dhanushjk.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:jkdhanush11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jkdhanush11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Building AI systems that automate workflows, augment decision-making, and create measurable business impact.</i>
+  <b>Software Engineering × Backend Systems × Artificial Intelligence</b>
+</p>
+
+<p align="center">
+  <i>Building scalable software and intelligent systems that solve real-world problems.</i>
 </p>
