@@ -94,21 +94,6 @@ I enjoy taking ideas from **problem → architecture → implementation → test
 
 ---
 
-# 🛠️ Featured Projects
-
-| Project                                                         | Description                                                                                                                                                                                                                     |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚚 **AI-Powered Logistics Operations Platform**                 | Enterprise AI application combining backend systems, intelligent automation, and logistics workflows for shipment operations and enterprise data access.                                                                        |
-| 💰 **Autonomous Invoice Processing & Finance Automation Agent** | Built an end-to-end AI finance automation agent using **Claude Code, MCP Servers, Zapier, Python, Gmail, Slack, and QuickBooks**, automating invoice extraction, validation, fraud checks, approvals, and accounting workflows. |
-| 🏦 **RecoverAI Copilot**                                        | Built a **RAG-powered financial conversation assistant** using FastAPI, FAISS, Streamlit, Llama 3, embeddings, and semantic retrieval for context-aware financial conversations.                                                |
-| 🤖 **AI Coder Buddy**                                           | Developed an autonomous web application generation system using **LangChain, LangGraph, LLMs, and multi-agent workflows** with planner, architect, and coder agents.                                                            |
-| 🚚 **Fine-Tuned Logistics Operations Assistant**                | Created domain-specific instruction datasets and fine-tuned **Llama 3 using QLoRA**, integrating RAG for shipment support, document retrieval, and logistics operations.                                                        |
-| ☁️ **CarePlus**                                                 | Built a cloud-based data engineering platform using **AWS S3, Lambda, Glue, Athena, Redshift, Parquet, and Power BI**.                                                                                                          |
-| 🥔 **Potato Disease Detection System**                          | Developed an end-to-end computer vision application using **TensorFlow, FastAPI, React, React Native, TensorFlow Lite, and GCP**, achieving approximately **99% validation accuracy**.                                          |
-| 📊 **IntelliSupply**                                            | Developed a predictive supply-chain analytics platform combining **14+ machine-learning models, ETL pipelines, and 7 datasets** for intelligent operational analytics.                                                          |
-
----
-
 # 🌐 Open Source
 
 I actively contribute to open-source software with a focus on **AI, Python, backend engineering, testing, and production-quality development**.
