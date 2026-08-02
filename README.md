@@ -15,7 +15,7 @@ Software Engineer | Backend & AI Engineer | Python • FastAPI • React • LLM
   <a href="https://www.linkedin.com/in/dhanushjk/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/dhanushjk">
+  <a href="https://github.com/JKDhanush">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
