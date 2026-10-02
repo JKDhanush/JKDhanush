@@ -292,8 +292,6 @@ I enjoy going beyond API calls and abstractions — understanding the **architec
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 <table>
 <tr>
 
