@@ -42,7 +42,6 @@ name: Dhanush J K
 role: AI Engineer
 
 focus:
-  - Machine Learning
   - Deep Learning
   - Transformers
   - Large Language Models
@@ -70,8 +69,6 @@ I'm an **AI Engineer focused on building intelligent systems and understanding t
 My interests span the entire AI stack:
 
 ```text
-Machine Learning
-      ↓
 Deep Learning
       ↓
 Neural Networks
