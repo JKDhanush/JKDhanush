@@ -292,30 +292,22 @@ I enjoy going beyond API calls and abstractions — understanding the **architec
 
 # 🚀 Featured Projects
 
-<table>
+# 🚀 Featured Projects
 
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🔄 Transformer From Scratch
 
-An implementation-focused project exploring the internal mechanics of the Transformer architecture.
+Implementation-focused project exploring the internal mechanics of Transformer architectures.
 
 **Exploring**
 
-`Tokenization`
-
-`BPE`
-
-`Embeddings`
-
-`Positional Encoding`
-
-`Self-Attention`
-
-`Multi-Head Attention`
-
+`Tokenization` `BPE`  
+`Embeddings` `Positional Encoding`  
+`Self-Attention` `Multi-Head Attention`  
 `Transformer Blocks`
 
 </td>
@@ -328,33 +320,9 @@ AI-powered software engineering agent capable of processing project requirements
 
 **Tech**
 
-`Python`
-
-`LLMs`
-
-`Generative AI`
-
-`AI Agents`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔍 RAG Knowledge Systems
-
-Retrieval-augmented AI systems focused on grounding language models using external knowledge.
-
-**Tech**
-
-`Embeddings`
-
-`FAISS`
-
-`Vector Search`
-
-`RAG`
-
-`LLMs`
+`Python` `LLMs`  
+`Generative AI` `AI Agents`  
+`Agentic Workflows`
 
 </td>
 
@@ -364,41 +332,61 @@ Retrieval-augmented AI systems focused on grounding language models using extern
 
 <td width="50%" valign="top">
 
-### 🧩 AI Agent Systems
+### 🔍 RAG Knowledge Systems
 
-Experiments with agents capable of reasoning through workflows and interacting with external tools.
+Retrieval-augmented AI systems focused on grounding language models using external knowledge.
 
-**Concepts**
+**Tech**
 
-`Tool Calling`
-
-`Function Calling`
-
-`Planning`
-
-`Memory`
-
-`Agent Workflows`
+`Embeddings` `FAISS`  
+`Vector Search` `RAG`  
+`LLMs` `Retrieval`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔌 MCP Experiments
+### 🧩 AI Agent Systems
 
-Exploring Model Context Protocol as an infrastructure layer for connecting AI models and agents with external tools and resources.
+Experiments with AI agents capable of executing workflows and interacting with external tools.
 
 **Concepts**
 
-`MCP`
+`Tool Calling` `Function Calling`  
+`Planning` `Memory`  
+`Agent Workflows` `Multi-Agent Systems`
 
-`Tools`
+</td>
 
-`Resources`
+</tr>
 
-`Context`
+<tr>
 
-`AI Agents`
+<td width="50%" valign="top">
+
+### 🧬 Fine-Tuned Logistics Assistant
+
+LLM-based logistics assistant exploring parameter-efficient fine-tuning and retrieval-augmented generation.
+
+**Tech**
+
+`Llama 3` `Hugging Face`  
+`QLoRA` `LangChain`  
+`RAG` `Fine-Tuning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 MCP AI Systems
+
+Exploring Model Context Protocol for connecting AI models and agents with external tools and resources.
+
+**Concepts**
+
+`MCP` `Tools`  
+`Resources` `Context`  
+`AI Agents` `Agent Infrastructure`
 
 </td>
 
@@ -407,6 +395,7 @@ Exploring Model Context Protocol as an infrastructure layer for connecting AI mo
 </table>
 
 ---
+
 
 # 🧪 AI From Scratch
 
