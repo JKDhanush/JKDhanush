@@ -338,10 +338,6 @@ AI-powered software engineering agent capable of processing project requirements
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🔍 RAG Knowledge Systems
