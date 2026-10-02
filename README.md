@@ -344,26 +344,6 @@ AI-powered software engineering agent capable of processing project requirements
 
 <td width="50%" valign="top">
 
-### 🧬 Fine-Tuned Logistics Operations Assistant
-
-LLM-powered logistics assistant built around instruction datasets, parameter-efficient fine-tuning and retrieval.
-
-**Tech**
-
-`Llama 3`
-
-`Hugging Face`
-
-`QLoRA`
-
-`LangChain`
-
-`RAG`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🔍 RAG Knowledge Systems
 
 Retrieval-augmented AI systems focused on grounding language models using external knowledge.
