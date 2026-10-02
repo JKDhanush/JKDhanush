@@ -703,8 +703,7 @@ flowchart TD
 
 <td>
 
-### 🏫 Indian Institute of Information Technology Design & Manufacturing Kancheepuram
-
+### 🏫 Indian Institute of Information Technology D&M Chennai
 **Bachelor of Technology**
 
 **2022 – 2026**
@@ -751,9 +750,9 @@ Engineering background with experience across **machine learning, deep learning,
 <img src="https://img.shields.io/badge/GitHub-JKDhanush-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://dhanushjk.lovable.app/">
+<!-- <a href="https://dhanushjk.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+</a> -->
 
 <a href="mailto:jkdhanush11@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
