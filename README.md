@@ -706,7 +706,7 @@ flowchart TD
 
 **2022 – 2026**
 
-🎓 **CGPA: 9.05 / 10**
+🎓 **CGPA: 9.1 / 10**
 
 Engineering background with experience across **machine learning, deep learning, AI systems, simulation and optimization**.
 
@@ -716,23 +716,6 @@ Engineering background with experience across **machine learning, deep learning,
 
 </table>
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JKDhanush&show_icons=true&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JKDhanush&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKDhanush&layout=compact&hide_border=true&langs_count=8" />
-
-</p>
 
 ---
 
