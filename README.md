@@ -235,7 +235,7 @@ I enjoy going beyond API calls and abstractions — understanding the **architec
 
 # 💼 Experience
 
-<details open>
+<!-- <details open>
 
 <summary><b>🤖 AI Engineer — The Professional Couriers</b></summary>
 
@@ -256,30 +256,21 @@ I enjoy going beyond API calls and abstractions — understanding the **architec
 
 `Python` `LLMs` `RAG` `AI Agents` `FastAPI` `Vector Databases` `SQL` `Docker`
 
-</details>
+</details> -->
 
 ---
 
 <details>
 
-<summary><b>🚗 AI / ML Engineer Intern — Renault Nissan Technology & Business Centre India</b></summary>
+<summary><b>AI Research Intern — Renault Nissan Technology & Business Centre India</b></summary>
 
 <br>
 
-**Jan 2026 – Apr 2026 | Chennai, India**
-
-* Developed machine-learning-based surrogate models using **Python and TensorFlow**
-* Processed **200+ automotive crash simulation datasets**
-* Built reusable feature-engineering and model-execution pipelines
-* Developed automated validation frameworks achieving **<2% prediction error**
-* Achieved approximately **0.99 R²**
-* Engineered a surrogate prediction system reducing execution time from approximately **8 hours → 10–20 ms**
-* Worked on machine-learning-based engineering simulation workflows
-* Contributed toward an **ASME research publication**
+**Sep 2026 – Present | Chennai, India**
 
 **Stack**
 
-`Python` `TensorFlow` `Pandas` `NumPy` `Machine Learning` `Deep Learning`
+`Python` `Pytorch` `TensorFlow` `Pandas` `NumPy` `Machine Learning` `Deep Learning`
 
 </details>
 
@@ -287,48 +278,17 @@ I enjoy going beyond API calls and abstractions — understanding the **architec
 
 <details>
 
-<summary><b>🧠 ML / Deep Learning Intern — TCS Research & Innovation</b></summary>
+<summary><b>AI Research Intern — TCS Research & Innovation</b></summary>
 
 <br>
 
 **May 2025 – Jul 2025 | Pune, India**
-
-* Developed neural-network-based computational systems using **Python and TensorFlow**
-* Achieved **<2.5% prediction error across 70+ evaluations**
-* Refactored and upgraded a **2,000+ line TensorFlow codebase**
-* Automated preprocessing pipelines for **1M+ multivariate time-series records**
-* Delivered approximately **250× faster inference** than traditional simulation workflows
-* Worked across experimentation, validation, debugging and optimization
 
 **Stack**
 
 `Python` `TensorFlow` `Deep Learning` `Machine Learning` `Pandas` `PySpark`
 
 </details>
-
----
-
-<details>
-
-<summary><b>🛠️ ML Engineer Intern — Grinder 2.0</b></summary>
-
-<br>
-
-**Nov 2024 – Mar 2025 | Chennai, India**
-
-* Developed ML-powered engineering applications using **Python**
-* Designed prediction systems across **15,000+ operational data points**
-* Integrated ML models with backend services
-* Built data processing and model inference workflows
-* Reduced batter preparation time by **30%**
-
-**Stack**
-
-`Python` `Scikit-learn` `Machine Learning` `SQL` `REST APIs`
-
-</details>
-
----
 
 # 🚀 Featured Projects
 
